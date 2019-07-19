@@ -21,7 +21,7 @@ Install the requirements
 $ pip install -r requirements.txt
 $ python main.py
  ```
-In order to run the ai on the web game you must open http://www.donttap.com/\
+In order to run the ai on the web game you must open http://www.donttap.com/ \
 Select the gamemode "Frenzy" \
 When the game starts click a white tile to immediately fail\
 Close the box asking you to submit your score and from there the ai is ready to take over
